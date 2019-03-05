@@ -9,7 +9,7 @@
 * This link:https://nicolewakio.github.io/pig-dice.github.io/
 
 ## Known Bugs
-{The game requires to be attentive and take turns manualy as it can not hold a player after rolling a '1'}
+{The game requires to be attentive and take turns manualy as it can not hold a player after rolling a '1' hence the next user has to start rolling their dice.}
 ## Technologies used
 {JAVA SCRIPT, HTML, CSS,bootstrap}
 ## Support and contact details
