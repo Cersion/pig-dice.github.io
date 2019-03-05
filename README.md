@@ -9,8 +9,8 @@
 * This link:
 
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
-## Technologies Used
+{The game requires to be attentive and take turns manualy as it can not hold a player after rolling a '1'}
+## Technologies used
 {JAVA SCRIPT, HTML, CSS,bootstrap}
 ## Support and contact details
 {If you run into any issues or have questions, ideas or concerns. Contact me @:nicolewakio@gmail.com}
