@@ -1,0 +1,13 @@
+h1{
+  font-size: italics;
+}
+body{
+  background-color:#fffccc
+}
+.block{
+  display: block;
+  padding: 50px
+}
+.flex{
+  display: flex;
+}
