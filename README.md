@@ -6,7 +6,7 @@
 ## Setup/Installation Requirements
 * A running network connection to the internet
 * A web browser
-* This link:
+* This link:https://nicolewakio.github.io/pig-dice.github.io/
 
 ## Known Bugs
 {The game requires to be attentive and take turns manualy as it can not hold a player after rolling a '1'}
